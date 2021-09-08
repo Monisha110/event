@@ -1,0 +1,95 @@
+.icon
+{
+   margin-bottom: auto;
+}
+.cls1
+{
+    padding :1cm
+
+    
+}
+
+ h1{
+    color:#f7542f;
+    font-size:1.3cm;
+    margin-bottom: .5cm;
+    
+    
+}
+h2
+{
+    color:black;
+}
+
+
+i{ 
+    
+    font-size:0.8cm;
+    color: whitesmoke;
+    padding: .5cm;
+    padding-bottom: 0.5cm;
+     position: relative;
+    left:31%;
+    
+    
+}
+body{
+    background-color: black;
+    height:18cm;
+    border: solid 1em black;
+    border-left-color: #f7542f;
+    border-right-color: #f7542f;
+border-top-style:none ;
+border-bottom-style: none;
+    
+}
+.card
+{
+    background-color: #f7542f;
+    font-weight: bold;
+    border-color: black;
+    
+
+}
+@media only screen and (max-width: 600px) {
+    i{
+        left:3%;
+        font-size: 0.55cm;
+        padding: 0.5cm;
+    }
+    
+    h1{
+        font-size:1cm;
+    margin-bottom: .3cm;
+        
+    }
+    .card
+{
+    background-color: #f7542f;
+    font-weight: bold;
+    border-color: black;
+   
+    
+
+}
+.cls4
+{
+    width: 7cm;
+}
+
+    }
+
+
+.container
+{
+    width: 78%;
+}
+
+
+
+
+
+
+
+
+
